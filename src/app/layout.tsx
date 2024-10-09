@@ -4,13 +4,10 @@ import "./globals.css";
 import HeaderTop from "@/components/header-top";
 import HeaderMain from "@/components/haeder-main";
 import Navbar from "@/components/navbar";
-import Hero from "@/components/hero";
 // import ProductCard from "@/components/ProductCard";
 
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import ProductCard from "@/components/ProductCard";
-import NewProducts from "@/components/new-products";
 import MobNavbar from "@/components/mobNavbar";
 import Footer from "@/components/footer";
 

@@ -1,4 +1,5 @@
 import React from 'react'
+import Image from 'next/image';
 
 import { FaSearch } from "react-icons/fa";
 import { BiUser } from "react-icons/bi";
@@ -15,7 +16,12 @@ function HeaderMain() {
     <div className='border-b border-gray-200 py-6 bg-slate-200'>
         <div className='container sm:flex justify-between items-center'>
                 <div className='font-bold text-4xl text-center pb-4 sm:pb-0 text-blackish'>
-                    <img  className='w-14 h-auto sm:w-28 md:w-16' src="/logo.jpg" alt="" />
+                    <Image
+                      className='w-14 h-auto sm:w-28 md:w-16'
+                      height={500}
+                      width={500} 
+                      src="/logo.jpg"
+                       alt="img" />
                 </div>
 
                 <div className='w-full sm:w-[300px] md:w-[70%] relative'>

@@ -26,7 +26,7 @@ function Testimonial() {
                         alt="quotes"
                         /> */}
                         <p className='max-w-[200px] text-gray-500'>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus aliquid perspiciatis, ut molestiae ipsam id incidunt eius? Officiis, architecto ex voluptatibus, doloribus voluptas suscipit laborum quod, fuga quis reprehenderit animi.
+                        I was a little unsure about the sizing, but the customer service team at XYZ Shop was so helpful. They guided me to the perfect size, and the exchange process was quick and hassle-free. I’m definitely coming back for more!.
                         </p>
                     </div>
                 </div>
